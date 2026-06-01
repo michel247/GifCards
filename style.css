@@ -3,12 +3,18 @@
     padding: 0;
 }
 .cabecalho{
+    background-color: rgb(192, 233, 8);
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 15px 25px;
 }
+h1{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
 body{
+    background-color: rgb(231, 98, 10);
     display: flex;
     flex-direction: column;
     min-height: 100vh;
